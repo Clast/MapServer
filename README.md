@@ -1,3 +1,7 @@
+# Archived
+
+This repo is no longer maintained.
+
 # MapServer
 
 Django server for the pothole mapping project.
